@@ -169,6 +169,8 @@ Configuração do Banco de Dados no PHP: No código PHP, configure a conexão co
 
 Acesse o Sistema: Abra o navegador e acesse http://localhost/seu-projeto/.
 
+Uso do Bootstrap Neste projeto, utilizamos o Bootstrap, uma das bibliotecas mais populares de CSS, para facilitar a criação de uma interface de usuário responsiva e estilizada. O Bootstrap foi escolhido devido à sua flexibilidade e conjunto de componentes prontos para uso, que ajudaram a acelerar o desenvolvimento e garantir uma aparência moderna e consistente em todas as telas. O que é o Bootstrap? O Bootstrap é um framework front-end de código aberto que fornece ferramentas para criar layouts responsivos e componentes de interface de usuário, como botões, formulários, tabelas, navegação e muito mais. Ele foi desenvolvido pela equipe do Twitter e é amplamente utilizado para construir sites e aplicações web eficientes e com boa aparência.  Como o Bootstrap foi utilizado? - Grid System: Usamos o sistema de grid do Bootstrap para garantir que o layout do projeto seja responsivo, ou seja, se ajuste de maneira adequada em diferentes tamanhos de tela, como dispositivos móveis, tablets e desktops. - Componentes Prontos**: O projeto faz uso de diversos
+
 Contribuir
 Se você deseja contribuir para o projeto, sinta-se à vontade para abrir um pull request
 
